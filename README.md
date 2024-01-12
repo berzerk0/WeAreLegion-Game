@@ -12,6 +12,8 @@ Players start with points which they use as currency to buy "possession" of the 
 
 There is no board, no pieces, and barely any rules.  Don't overthink it. Come up with something fun to accomplish, and some silly skills that will help you do it. 
 
+You can roll dice and [score your games on this tracker](tracker.html). It runs only in your browser locally, and will erase the page if you refresh it. If you want someone else to see the tracker, you'll need a screenshare or TV.  
+
 ### Requirements
 
 - 2-6 Players acting as spirits
