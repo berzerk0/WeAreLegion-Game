@@ -1,0 +1,170 @@
+<html>
+<head>
+<style type="text/css">
+body {
+	background-image: none !important;
+	background-color: rgba(40, 42, 54, 1) !important;
+}
+
+body * {
+	color: rgba(248, 248, 242, 1);
+	background-color: rgba(40, 42, 54, 1) !important;
+}
+
+table {
+	background-color: rgba(40, 42, 54, 1) !important;
+	cellpadding: 1;
+	cellspacing: 1;
+	border-collapse:separate;
+    border:solid white 1px;
+    border-radius:6px;
+}
+
+td, th {
+    border-left: solid white 1px;
+    border-top: solid white 1px;
+    spellcheck: false;
+}
+
+th {
+    background-color: blue;
+    border-top: none;
+}
+
+td:first-child, th:first-child {
+   border-left: none;
+}
+
+h1, h2, td, th, label, p, textarea {
+	font-family: Helvetica, sans-serif;
+}
+
+
+textarea {
+	width: 75%;
+	height: 200px;
+	padding: 12px 20px;
+  	box-sizing: border-box;
+  	border: 2px solid #ccc;
+  	border-radius: 4px;
+
+}
+
+	</style>
+</head>
+<body>
+
+<h1> We Are Legion </h1>
+
+<h2><u>Spirits</u></h2>
+<table>
+	<thead>
+		<tr>
+			<th scope="col" style="width: 126px;">SPIRIT NAME</th>
+			<th scope="col" style="width: 179px;">SKILLS</th>
+			<th scope="col" style="width: 75px;">POSSESSION<br />POWER</th>
+			<th scope="col" style="width: 110px;">OATHS<br />
+			FULLFILLED</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td contenteditable style="width:126px">&nbsp;</td>
+			<td contenteditable style="width:179px">&nbsp;</td>
+			<td contenteditable style="text-align:center; width:72px">10</td>
+			<td contenteditable style="text-align:center; width:101px">0</td>
+		</tr>
+		<tr>
+			<td contenteditable style="width:126px">&nbsp;</td>
+			<td contenteditable style="width:179px">&nbsp;</td>
+			<td contenteditable style="text-align:center; width:72px">10</td>
+			<td contenteditable style="text-align:center; width:101px">0</td>
+		</tr>
+		<tr>
+			<td contenteditable style="width:126px">&nbsp;</td>
+			<td contenteditable style="width:179px">&nbsp;</td>
+			<td contenteditable style="text-align:center; width:72px"></td>
+			<td contenteditable style="text-align:center; width:101px"></td>
+		</tr>
+		<tr>
+			<td contenteditable style="width:126px">&nbsp;</td>
+			<td contenteditable style="width:179px">&nbsp;</td>
+			<td contenteditable style="text-align:center; width:72px"></td>
+			<td contenteditable style="text-align:center; width:101px"></td>
+		</tr>
+		<tr>
+			<td contenteditable style="width:126px">&nbsp;</td>
+			<td contenteditable style="width:179px">&nbsp;</td>
+			<td contenteditable style="text-align:center; width:72px"></td>
+			<td contenteditable style="text-align:center; width:101px"></td>
+		</tr>
+		<tr>
+			<td contenteditable style="width:126px">&nbsp;</td>
+			<td contenteditable style="width:179px">&nbsp;</td>
+			<td contenteditable style="text-align:center; width:72px"></td>
+			<td contenteditable style="text-align:center; width:101px"></td>
+		</tr>
+	</tbody>
+</table>
+
+
+<br>
+<h2><u>Rolls</u></h2>
+<br>
+
+<label for="rollStack">PP to Stack Roll (0-5):</label>
+<input type="number" id="rollStack" name="rollStack" min="0" max="5" value="0">
+
+<button onclick="rollDice()">Roll</button>&emsp;&emsp;  
+<label id="lastRoll" style="color: orange; font-size: 40px"></label>
+<p id="rollResult">No rolls yet.</p>
+<p id="currentTime">clock starting...</p>
+
+	<script>
+		function rollDice() {
+			var diceRoll = Math.floor(Math.random() * 6) + 1;
+			var userNumber = parseInt(document.getElementById('rollStack').value);
+
+			if (!userNumber) {
+				var showRoll = `${diceRoll} on the die at ${diceTime}`;
+				userNumber = 0;
+			}
+			else {
+				var showRoll = `${diceRoll} on the die + ${userNumber} Stack = ${sum} at ${diceTime}`
+			}
+
+			if (userNumber > 5) {
+				userNumber = 5;
+				document.getElementById('rollStack').value = 5;
+			}
+
+			var sum = diceRoll + userNumber;
+			var diceTime = new Date().toLocaleTimeString();
+
+			if (!userNumber) {
+				var showRoll = `${diceRoll} on the die at ${diceTime} `
+			}
+			else {
+				var showRoll = `${diceRoll} on the die + ${userNumber} Stack = ${sum} at ${diceTime}`
+			}
+
+			document.getElementById('lastRoll').innerHTML = sum;
+			document.getElementById('rollResult').innerHTML = showRoll;
+		}
+
+		setInterval(function() {
+			timeNow = new Date().toLocaleTimeString();
+			document.getElementById("currentTime").innerHTML = `Time Now: ${timeNow}`}, 1000);
+	</script>
+
+<br>
+<h2><u>Notes</u></h2>
+<br>
+
+<textarea spellcheck="false">
+Type here
+You can also edit the Spirits table
+</textarea>
+
+</body>
+</html>
