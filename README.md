@@ -2,6 +2,7 @@
 A variant of **[Everyone is John](https://overlycommonname.github.io/john.html)**, which has a Creative Commons Attribution 4.0 International License. Shoutout to the original creator, Michael Sullivan who has nothing to do with this project but seems fun.
 It's an improv heavy, very light RPG that only requires a group of silly people, a pile of small objects, a single six-sided die, and an hour or two to play.
 
+You can roll dice and [score your games on this tracker](tracker.html). It runs only in your browser locally, and will erase the page if you refresh it. If you want someone else to see the tracker, you'll need a screenshare or TV.  
 
 ## Quick Summary
 Players take turns controlling an imaginary person and creating a story (in real time) that leads to the accomplishment of goals that each player arbitrarily comes up with at the start of the game. When a player loses control of the person, the other players can take the story in a new direction as they try to accomplish their own goals. These goals are usually secret until they are achieved. 
@@ -12,7 +13,7 @@ Players start with points which they use as currency to buy "possession" of the 
 
 There is no board, no pieces, and barely any rules.  Don't overthink it. Come up with something fun to accomplish, and some silly skills that will help you do it. 
 
-You can roll dice and [score your games on this tracker](tracker.html). It runs only in your browser locally, and will erase the page if you refresh it. If you want someone else to see the tracker, you'll need a screenshare or TV.  
+
 
 ### Requirements
 
