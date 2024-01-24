@@ -90,7 +90,7 @@ Oaths must be entirely in the universe of the game. A Spirit's oath cannot be, f
 #### Skills
 At setup, Spirits arbitrarily create "skills" with a short description that will help them fulfill their oath and make it easier to win dicerolls. Players must choose two skills, but can opt to choose 3 skills. Players that opt for three skills start with only 7 possession power.
 
-Goals should be simple and not too strict. For example:
+Skills should be simple and not too strict. For example:
 - Karate
 - Singing
 - Able to stomach 15 hot dogs
@@ -211,6 +211,8 @@ In the event of a tie for first place, each tied player gets one possession to c
 Repeat this proccess until there is a clear winner.
 
 
+---
+
 ## Examples
 ### Oath Examples (Approximate Difficulty)
 
@@ -227,7 +229,7 @@ Difficulty is  defined arbitrarily by the Narrator's discretion.
 - rob a bank and get away with it (3)
 - escape police custody (2)
 - eat a hot dog (1)
-- locate and assassinate a crime boss (2)
+- locate and assassinate a crime boss (3)
 - engage in (mild) cannibalism (2)
 - transport a zoo animal across state lines (2)
 - impersonate a person of authority (2)
@@ -239,4 +241,16 @@ Difficulty is  defined arbitrarily by the Narrator's discretion.
 - get braces (2)
 - Perform escape artistry (2)
 - Eat bananas with a non-human primate (2)
-  
+
+
+### Spirit Character Examples
+
+| Name     | Goal | Skills| 
+| ----------- | ----------- | ----------- |
+| Deli Man    | Serve someone a bacon egg and cheese sandwich       | - Cooking <br>- Winning friends by giving nicknames  |
+| Cursed Sea Captain  | Offer something treasured to the cruel sea     | - Nautical Tales <br>- Drinking       |
+| Barney Robinson, Chill Uncle | Just hang out and have a burger       | - Chillin <br>- Grillin     |
+| Medieval Serf | Dance to "Promiscuous" by Nelly Furtado       | - Toiling <br>- Respecting their liege lord     |
+| Grizzly Bear | Sleep in a cave     | - Sniffing out roots, berries, and honey <br>- Defending her cubs   |
+
+[Reload this page](https://berzerk0.github.io/WeAreLegion-Game/)
