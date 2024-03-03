@@ -7,9 +7,9 @@ You can roll dice and [score your games on this tracker](tracker.html). It runs 
 ## Quick Summary
 Players take turns controlling an imaginary person and creating a story (in real time) that leads to the accomplishment of goals that each player arbitrarily comes up with at the start of the game. When a player loses control of the person, the other players can take the story in a new direction as they try to accomplish their own goals. These goals are usually secret until they are achieved. 
 
-One player acts as the host, and does not compete with the others. Instead, they are the main author of the story, mediator, and the one responsible for creating some kind of coherent narrative. 
+One player acts as the Narrator, and does not compete with the others. Instead, they are the main author of the story, mediator, and the one responsible for creating some kind of coherent narrative. 
 
-Players start with points which they use as currency to buy "possession" of the person, and the game ends when all players have run out of possession points. Players also start with "skills" at the beginning of the game that will help them accomplish their personal goals. Success on actions along the way relies on rolling the die.
+Players start with points which they use as currency to buy "possession" of the body, and the game ends when all players have run out of possession points. Players also start with "skills" at the beginning of the game that will help them accomplish their personal goals. Success on actions along the way relies on rolling the die.
 
 There is no board, no pieces, and barely any rules.  Don't overthink it. Come up with something fun to accomplish, and some silly skills that will help you do it. 
 
