@@ -1,6 +1,6 @@
-# We Are Legion
+# We are Legion, We are Stupid
 A variant of **[Everyone is John](https://overlycommonname.github.io/john.html)**, which has a Creative Commons Attribution 4.0 International License. Shoutout to the original creator, Michael Sullivan who has nothing to do with this project but seems fun.
-It's an improv heavy, very light RPG that only requires a group of silly people, a pile of small objects, a single six-sided die, and an hour or two to play.
+It's an improv-heavy, very rules light RPG that only requires a group of silly people, a pile of small objects, a single six-sided die, and an hour or two to play.
 
 You can roll dice and [score your games on this tracker](tracker.html). It runs only in your browser locally, and will erase the page if you refresh it. If you want someone else to see the tracker, you'll need a screenshare or TV.  
 
@@ -101,18 +101,21 @@ Skills should be simple and not too strict. For example:
 
 While all players control the same host, skills are _not shared_ between players unless the players choose the same skill.
 
+Spirits should pick skills that will help them complete their oaths
+
 #### Spirit Personalities
 
 Spirit personalities can be as undefined or structured as players like them to be. Spirits can be a completely blank slate with random skills, or a fully developed character.
+
 If someone wants to be the spirit of Elvis, they might have the skills of singing and dancing. They might also talk like Elvis for the whole game.
 
 
 ## Possession
 ### Gaining Possession
 
-To gain possession of the host, spirits bid using possession points. They place a select number of tokens in their hand, place the hand on the table, and then reveal their bid to all others. The player with the highest number wins possession and that many points is deducted from their possession power. In the event of a tie for highest bid, players keep bidding until there is a clear winner. Players that lose a bid do not lose any possession points. 
+To gain possession of the host, Spirits bid using possession points. They place a select number of tokens in their hand, place the hand on the table, and then reveal their bid to all others. The Spirit with the highest number wins possession and that many points is deducted from their possession power. In the event of a tie for highest bid, players keep bidding until there is a clear winner. Players that lose a bid do not lose any possession points. 
 
-When a posssession ends, the previously player is allowed to bid again immediately.
+When a possession ends, the previously player is allowed to bid again immediately.
 
 Repossession bidding happens _before_ the Narrator explains what events transpired since possession was lost. After the start of a new possession, the narrator advances the situation a reasonable amount. If a player loses possession because they failed to dodge a pie flying at their face, the new possession might begin with the host getting hit with it.
 
@@ -120,7 +123,7 @@ Players are not required to bid, but if no players do, all players roll the die.
 
 ### Losing Possession
 Spirits lose possession upon
-- Losing an action roll
+- Losing an action roll or idle roll
 - Fulfilling their own oath
 - Leaving the table for any reason (Narrator's discretion)
 
@@ -140,27 +143,29 @@ After losing possession because of writer's block, a spirit is allowed to bid im
 ## Play
 
 
-After the initial possession bid, the narrator describes the start of the story with only as much detail as they would like. Before this, spirits (and often the Narrator) have no knowledge of the world outside of their own oaths and the skills of other Spirits. The host body can wake up anywhere, and it is up to the Spirits to ask the Narrator to paint the scene for them. Based on improvisation between the possessing spirit and the Narrator, players build the world, characters, and in real time as they aim to achieve their goals. Make it silly and fun.
+After the initial possession bid, the narrator describes the start of the story with only as much detail as they would like. Before this, Spirits (and often the Narrator) have no knowledge of the world outside of their own oaths and the skills of other Spirits. The host body can wake up anywhere, and it is up to the Spirits to ask the Narrator to paint the scene for them. Based on improvisation between the possessing spirit and the Narrator, players build the world, characters, and in real time as they aim to achieve their goals. Make it silly and fun.
 
 
 
 ### Interacting with the World
-It's up to the Spirits and the Narrator to build the world through improvisation. To construct the situation, try add to or twist ideas rather than blocking or replacing them. This way, the players can construct the details they need to fullfill their oaths. 
+It's up to the Spirits and the Narrator to build the world through improvisation. To construct the situation, try add to or twist ideas rather than blocking or replacing them. This way, the players can construct the details they need to fulfill their oaths. 
 
-For example, if a Spirit's goal is to eat a hot dog, they would need to figure out where the nearest hot dogs are, get themselves there, and figure out how to aquire them. All actions have consequences, so if you steal the hot dogs you may find yourself locked up in a jail where no hot dogs are allowed. The narrator should make it possible for every Spirit to complete their oaths by adding little hints here and there about a detail relevant to the oaths - even if the oaths of the players not currently in possession.
+For example, if a Spirit's goal is to eat a hot dog, they would need to figure out where the nearest hot dogs are, get themselves there, and figure out how to acquire them. All actions have consequences, so if you steal the hot dogs you may find yourself locked up in a jail where no hot dogs are allowed. The narrator should make it possible for every Spirit to complete their oaths by adding little hints here and there about a detail relevant to the oaths - even if the oaths of the players not currently in possession.
 
-For example, if an NPC asks a player "Are you the hot dog guy?" The player should never respond with "No" but instead with something that incorporates the question while adding new information to the world/scene. If the Spirit's goal is to eat as many hot dogs as possible, they might answer "Yeah, you can just set them all down here..." 
+For example, if an non-player character asks a Spirit "Are you the hot dog guy?" The player should never respond with "No" but instead with something that incorporates the question while adding new information to the world/scene. If the Spirit's oath is to eat as many hot dogs as possible, they might answer "Yeah, you can just set them all down here..." If the Spirit's oath is unrelated to hot dogs, they should still try to use the hot dogs to their advantage.
 
 
 ### Action Rolls
 
-When a spirit wants to take that they could reasonably (or unreasonably, per the Narrator's discretionn) fail at, the Narrator will require that they roll the die. The outcome of this roll will determine if they succeed or fail.
-If the Spirit has a skill that is "relevant" to the action, their odds are better. 
+*Failing an action roll at any time loses possession.*
 
--  If the Spirit has no "relevant" skill, they must roll a 5 or 6 to win. (2/6 Chance to win)
--  If the Spirit has a relevant skill, rolling 3 or higher wins. (4/6 Chance to win)
+When a spirit wants to take that they could reasonably (or unreasonably, per the Narrator's discretion) fail at, the Narrator will require that they roll the die. The outcome of this roll will determine if they succeed or fail.
+If the Spirit has a skill that is "relevant" to the action, their odds are better as they make make a _skilled roll_. 
 
-For example, if a spirit wants to __persuade__ someone to let them into an office building, their odds would be better if they had skills like "persuasion" or "professionalism," but not "trombone" or "karate." If a player had the trombone skill, they should invent some trombone-centric method of getting what they want instead of trying to talk their way into things.
+-  **Unskilled Rolls**: If the Spirit has no "relevant" skill, they must roll a 5 or 6 to win. (2/6 Chance to win).
+-  **Skilled Rolls***: If the Spirit has a relevant skill, rolling 3 or higher wins. (4/6 Chance to win). 
+
+For example, if a Spirit wants to win a fight with a bear, their odds would be better if they had skills like "karate" or "bear knowledge," but not "trombone" or "sushi preparation." If a player had the trombone skill, they should invent some trombone-centric method of getting what they want instead of trying to talk their way into things.
 
 Spirits should utilize their skills, but understand that using karate to get into an office building by force may have more serious consequences than talking their way in. In either case, the consequences are at the discretion of the Narrator.
 
@@ -168,14 +173,21 @@ If a Spirit wins a roll, they describe what their success looks like in an amusi
 If a Spirit loses a roll, the Narrator describes how amusingly badly their failed at their action. 
 In either case, other players can contribute suggestions if they are fun.
 
+#### Stacking Rolls
 **Before** a roll, a Spirit can add to their rolled score by spending possession power on a 1:1 basis. They deduct the number of points from their possession power pool, then roll the die and add the roll value to the number of points deducted to get their final score. By doing this, it is possible to win the roll ahead of time. By spending 5 points (and thereby losing 1/2 of the possession power they started with!) a player can guarantee a roll wins.
+
 For example:
   - If a spirit stacks the roll with 2 points and then rolls a 2, their rolled value is now 4.
   - If a spirit stacks the roll with 2 points and then rolls a 4, their rolled value is now 6.
   - If a spirit stacks the roll with 5 points, their roll is automatically a 6. They get no bonus for scoring points higher than 6.
 
+#### Performance Bonuses
+To add to the fun, the Narrator can award Spirits free stacked rolls at their discretion if the player earns it by doing something fun in real life.  If the player's performance is good (judged by both the other players and the Narrator), the Narrator can stack the upcoming roll by 1 point without deducting the point from the Spirit's possession power pool.
 
-*Failing an action roll at any time loses possession.*
+For example, if a Spirit does not have any intimidating skills but wants to intimidate a non-player character, they would need to make an unskilled roll and therefore roll a 5 or 6 to succeed. However, if the player can perform an amusingly intimidating monologue before making the roll, the Narrator can stack the roll 1 point for free.
+
+Narrators can only stack the roll with 1 point this way. Narrators cannot decrease the outcome of an upcoming roll this way  as the result of a poor performance.
+
 
 ### Story Rolls
 
@@ -187,7 +199,7 @@ For example, if a Spirit has taken the host into a wooded area and asks if there
 
 Don't kill the host. If a Spirit takes an action that would somehow kill the host, it's up to the Narrator to somehow keep them alive though story powers alone.
 
-For example, if a Sprit tries to quickly jump across the tracks before an oncoming train and then rolls a 1, the narrator might inform everyone that actually they slipped on a banana peel before the jump even started which is why it failed so badly.
+For example, if a Spirit tries to quickly jump across the tracks before an oncoming train and then rolls a 1, the narrator might inform everyone that actually they slipped on a banana peel before the jump even started which is why it failed so badly.
 
 However, if a Spirit tries to take an action that could have lethal consequences and fails the action, they are not allowed to participate in the next repossession bid.
 
@@ -199,6 +211,12 @@ As a newly created body, the host's properties start as a blank slate. Spirits a
 - At the start, the host has no notable health issues (other than those that might come naturally with being their age, but nothing like deathly allergies). Injuries may arise during the game, and their impact on the game is at the discretion (whim) of the Narrator.
 - Until explicitly defined, the host has no objects on their person - though this is up to the discretion of the Narrator
 
+## Narrator Guidelines
+- Create opportunities for Spirits to use their skills
+- Make it possible for all Spirits to complete their oaths
+- Allow Spirits to define what the body looks like/have on them, but don't let one player dominate too much
+- Play the role of every character in the world besides the body, and enforce that. Don't let Spirits tell you what a non-player character says.
+- Let Spirits act as they please, but give them a nudge if they they are trying to do something in a way that is more complicated than it needs to be.
 
 ## Game End
 When only one Spirit has more than 0 possession points remaining, they regain possession automatically at the cost of 1 point until they lose control with 0 points left.
@@ -208,8 +226,8 @@ Tally up every time a player fulfilled their oath, and multiply it by the diffic
 The player with the highest number of favor points wins!
 
 In the event of a tie for first place, each tied player gets one possession to complete an oath of the Narrator's choosing. The story resumes in the same place that the last possession ended.
-Repeat this proccess until there is a clear winner.
 
+Repeat this process until there is a clear winner.
 
 ---
 
@@ -245,12 +263,13 @@ Difficulty is  defined arbitrarily by the Narrator's discretion.
 
 ### Spirit Character Examples
 
-| Name     | Goal | Skills| 
-| ----------- | ----------- | ----------- |
-| Deli Man    | Serve someone a bacon egg and cheese sandwich       | - Cooking <br>- Winning friends by giving nicknames  |
-| Cursed Sea Captain  | Offer something treasured to the cruel sea     | - Nautical Tales <br>- Drinking       |
-| Barney Robinson, Chill Uncle | Just hang out and have a burger       | - Chillin <br>- Grillin     |
-| Medieval Serf | Dance to "Promiscuous" by Nelly Furtado       | - Toiling <br>- Respecting their liege lord     |
-| Grizzly Bear | Sleep in a cave     | - Sniffing out roots, berries, and honey <br>- Defending her cubs   |
+| Name                         | Goal                                          | Skills                                                             |
+|------------------------------|-----------------------------------------------|--------------------------------------------------------------------|
+| Deli Man                     | Serve someone a bacon egg and cheese sandwich | - Cooking - Winning friends by giving nicknames                     |
+| Cursed Sea Captain           | Offer something treasured to the cruel sea    | - Nautical Tales - Drinking                                           |
+| Barney Robinson, Chill Uncle | Just hang out and have a burger               | - Chillin - Grillin                                                   |
+| Medieval Serf                | Dance to "Promiscuous" by Nelly Furtado       | - Toiling - Groveling to their liege lord and other authority figures |
+| Grizzly Bear                 | Sleep in a cave                               | - Sniffing out roots, berries, and honey - Defending her cubs      |
+|                              |                                               |                                                                    |
 
-[Reload this page](https://berzerk0.github.io/WeAreLegion-Game/)
+[Reload this page](https://github.com/berzerk0/WeAreLegionWeAreStupid/)
