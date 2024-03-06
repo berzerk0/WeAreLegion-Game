@@ -4,6 +4,9 @@ It's an improv-heavy, very rules light RPG that only requires a group of silly p
 
 You can roll dice and [score your games on this tracker](tracker.html). It runs only in your browser locally, and will erase the page if you refresh it. If you want someone else to see the tracker, you'll need a screenshare or TV.  
 
+[Click to view as a webpage](https://berzerk0.github.io/WeAreLegionWeAreStupid/)
+[Click to view on GitHub](https://github.com/berzerk0/WeAreLegionWeAreStupid)
+
 ## Quick Summary
 Players take turns controlling an imaginary person and creating a story (in real time) that leads to the accomplishment of goals that each player arbitrarily comes up with at the start of the game. When a player loses control of the person, the other players can take the story in a new direction as they try to accomplish their own goals. These goals are usually secret until they are achieved. 
 
